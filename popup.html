@@ -4,21 +4,24 @@
         <style>
             button {
                 height: 30px;
-                width: 177px;
+                width: 86px;
                 outline: none;
                 margin-top: 10px;
             }
             #error {
                 color: red;
                 text-align: center;
-                width: 177px;
+                width: 176px;
             }
         </style>
     </head>
     <body>
         Refresh Interval (seconds): <input id="intervalInput"></input>
         <div id="error"></div>
-        <button id="startRefresh">Start</button>
+        <span>
+            <button id="startRefresh">Start</button>
+            <button id="stopRefresh">Stop</button>
+        </span>
         <script src="popup.js"></script>
     </body>
 </html>

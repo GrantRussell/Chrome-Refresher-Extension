@@ -7,4 +7,4 @@
 4. In new bar at the top, select `Load unpacked` and find location where you saved extension folder.
 5. Once loaded, make sure to hit refresh button on the Chrome Refresher extension
 6. Open Extension puzzle menu in toolbar, find `Chrome Refresher` and pin it to your toolbar.
-7. Click on the new grey `C` extension icon in any tab that you want to continuously refresh!
+7. Click on the new hourglass extension icon in any tab that you want to continuously refresh!
